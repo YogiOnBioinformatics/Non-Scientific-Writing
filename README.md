@@ -1,18 +1,23 @@
 # Non-Scientific Writing Examples
 
+**Introduction** 
+
 This repository contains examples of non-scientific writing that I have done during my time at the University of Pittsburgh. This may be useful for those wanting to know about my writing style and ability since it is useful in the scientific world. 
 
-**Political Philosophy** 
 
-This folder contains essays from the `Political Philosophy` course I took in the Fall of 2017. The papers use formal philosophical argumentation standards and are a bit dense for those not interested in the subject. 
+**Folders** 
 
-**Religion in India** 
+:file_folder: `Political Philosophy/`
+
+This folder contains essays from the Political Philosophy course I took in the Fall of 2017. The papers use formal philosophical argumentation standards and are a bit dense for those not interested in the subject. 
+
+:file_folder: `Religion in India/` 
 
 This folder contains essays from the `Religion in India` course I took in the Fall of 2018. The essays focus on culture and praxis of different religious traditions throughout the South Asian subcontinent. 
 
-**World Theatre** 
+:file_folder: `World Theatre/`
 
-This folder contains essays from the `World Theatre` course I took in the Spring of 2017. The journal and small paper in that folder examine specific theatrical plays and stanzas ranging from Europe, Asia, Africa and South America. 
+This folder contains essays from the World Theatre course I took in the Spring of 2017. The journal and small paper in that folder examine specific theatrical plays and stanzas ranging from Europe, Asia, Africa and South America. 
 
 **Contact Information:**
 
